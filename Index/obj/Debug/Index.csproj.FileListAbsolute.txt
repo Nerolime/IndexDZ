@@ -1,0 +1,14 @@
+C:\Users\АушахмановИ\source\repos\Index\Index\bin\Debug\Index.exe.config
+C:\Users\АушахмановИ\source\repos\Index\Index\bin\Debug\Index.exe
+C:\Users\АушахмановИ\source\repos\Index\Index\bin\Debug\Index.pdb
+C:\Users\АушахмановИ\source\repos\Index\Index\obj\Debug\Index.csprojAssemblyReference.cache
+C:\Users\АушахмановИ\source\repos\Index\Index\obj\Debug\Index.csproj.CoreCompileInputs.cache
+C:\Users\АушахмановИ\source\repos\Index\Index\obj\Debug\Index.exe
+C:\Users\АушахмановИ\source\repos\Index\Index\obj\Debug\Index.pdb
+C:\Users\АйткожаЖ.CORP\source\repos\Indexatordz\Index\bin\Debug\Index.exe.config
+C:\Users\АйткожаЖ.CORP\source\repos\Indexatordz\Index\bin\Debug\Index.exe
+C:\Users\АйткожаЖ.CORP\source\repos\Indexatordz\Index\bin\Debug\Index.pdb
+C:\Users\АйткожаЖ.CORP\source\repos\Indexatordz\Index\obj\Debug\Index.csprojAssemblyReference.cache
+C:\Users\АйткожаЖ.CORP\source\repos\Indexatordz\Index\obj\Debug\Index.csproj.CoreCompileInputs.cache
+C:\Users\АйткожаЖ.CORP\source\repos\Indexatordz\Index\obj\Debug\Index.exe
+C:\Users\АйткожаЖ.CORP\source\repos\Indexatordz\Index\obj\Debug\Index.pdb
